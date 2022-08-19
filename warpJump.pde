@@ -1,5 +1,3 @@
-//By Fraiolefano
-
 int N=500;
 static float centerX=0;
 static float centerY=0;
